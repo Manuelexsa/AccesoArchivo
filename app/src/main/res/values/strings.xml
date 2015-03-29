@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Practica ADD archivo.xml</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="name">Introduzca nombre</string>
+    <string name="addl">Añadir Nivel</string>
+    <string name="levelused">El nivel ya esta en uso </string>
+    <string name="tlevel">El nivel </string>
+    <string name="ismodify"> ha sido añadido</string>
+    <string name="naame">Introduzca nombre</string>
+    <string name="modifylevel">Modificar Nivel</string>
+    <string name="eliminar">Desea eliminar</string>
+    <string name="isdelete">ha sido borrado</string>
+    <string name="addgrup">Añadir Grupo</string>
+    <string name="grupused">El grupo ya existe</string>
+    <string name="grupadd">El grupo ha sido añadido</string>
+    <string name="modifygrup">Modificar Grupo</string>
+    <string name="grupexist">El grupo ya esta en uso</string>
+    <string name="tgrup">El grupo</string>
+    <string name="grupmodify">El grupo  ha sido Modificado</string>
+
+</resources>
